@@ -1,0 +1,22 @@
+# ── Credentials & Secrets ─────────────────────────────────────
+.env
+credentials.json
+token.json
+gmail_token.json
+
+# ── Personal Data ─────────────────────────────────────────────
+*.db
+tasks.json
+
+# ── Windows Shortcuts ─────────────────────────────────────────
+*.lnk
+
+# ── Node / WhatsApp Bridge ────────────────────────────────────
+node_modules/
+npm-debug.log*
+
+# ── Python Cache ──────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
